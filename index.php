@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Deployed from main branch!!!</h1>
+<h1>Deployed from master branch!</h1>
 
 </body>
 </html>
